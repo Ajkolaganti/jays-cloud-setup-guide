@@ -1,0 +1,9 @@
+{
+  "name": "jays-cloud-setup-guide",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "build": "echo 'Static HTML site: no build required'",
+    "start": "python3 -m http.server 3000"
+  }
+}
